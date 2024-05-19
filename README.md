@@ -31,9 +31,7 @@ The script files provide all the configuration and verification commands for the
 ## Instructions
 A zip file contains all the folders and files for the project. It needs to be unzipped
 and then the ubuntu-wireguard folder needs to be placed in the /GNS3/projects folder.
-A zip file has to be used because the export project is not working in
-GNS3 2.2.46 on my Ubuntu host. The ensuing table shows all the top-level files in the archive.
-The zip file is only 200K because none of the VMs were ever started for **this** zip file.
+The ensuing table shows all the top-level files in the archive. A zip file has to be used because the export project is not working - possibly because I never started any of the VMs in **this** rendition of the project. Consequently, the zip file is only 200K.
 
 
 | Filenames                     | Purpose                                             |
