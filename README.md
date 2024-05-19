@@ -49,7 +49,7 @@ The .gns3proj files are listed in the table.
 | install-netplan-ubu-2.sh      | configure netplan on ubu-2                          |
 | install-wireguard.sh          | install wireguard on gns3-vm-1 and ubu-2            |
 | publish-wireguard-key.sh      | publish wireguard public key on gns3-vm-1 and ubu-2 |
-| ubuntu-wireguard.png          | picture                                             |
+| ubuntu-wireguard.png          | topology                                         |
 | ubuntu-wireguard-readme.txt   | the instructions for the lab                        |
 | verify-libvirt.sh             | verify libvirt configuration on ubu-3 and gns3-vm-1 |
 | verify-pyats-ubu-2.sh         | final verification tests run on ubu-2               |
