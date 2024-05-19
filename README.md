@@ -19,6 +19,7 @@ remote GNS3 VM setup using wireguard. This lab uses bash
 exclusively and should only be attempted by someone that can understand bash.
 The script files provide all the configuration and verification commands for the lab.
 
+![Topology](/Network/Topology.png)
 
 ## Environment
  * **Host Ubuntu 23.10**
