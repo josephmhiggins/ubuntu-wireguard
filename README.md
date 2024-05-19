@@ -48,7 +48,6 @@ The .gns3proj files are listed in the table.
 | install-netplan-gns3-vm-1.sh  | configure netplan on gns3-vm-1                      |
 | install-netplan-ubu-2.sh      | configure netplan on ubu-2                          |
 | install-wireguard.sh          | install wireguard on gns3-vm-1 and ubu-2            |
-| intro.odt                     | introduction to the lab in gns3 marketplace         |
 | publish-wireguard-key.sh      | publish wireguard public key on gns3-vm-1 and ubu-2 |
 | ubuntu-wireguard.png          | picture                                             |
 | ubuntu-wireguard-readme.txt   | the instructions for the lab                        |
