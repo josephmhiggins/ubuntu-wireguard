@@ -30,7 +30,7 @@ The script files provide all the configuration and verification commands for the
  * **Docker gns3-pyats**
 ## Instructions
 The file ubuntu-wireguard-readme.txt contains all the instructions.
-The .gns3proj thefiles listed in the table.
+The .gns3proj files are listed in the table.
 
 | Filenames                     | Purpose                                             |
 | ----------------------------- | --------------------------------------------------- |
