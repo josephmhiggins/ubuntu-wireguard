@@ -1,13 +1,18 @@
 # ubuntu-wireguard
 
-This lab simulates a remote gns3-vm setup that is accessed
-via a wireguard vpn. This lab is almost a direct copy/paste of
-Marc Weisel's lab found here:
+This lab simulates a remote gns3-vm setup whereby an ubuntu vm
+is configured as a wireguard server and another ubuntu vm is
+configured as a wireguard client. The purpose of this lab is
+to provide the configuration and troubleshooting tools to create
+and maintain a remote gns3 vm setup.
+
+This lab is almost a direct copy and paste of Marc Weisel's lab found here:
 https://marcstech.blog/archives/ssh-local-port-fwd-remote-gns3-server/
-The docker, gns3-pyats, replaces Weisel's ASAv and PAN VM. Those
+In this lab, the docker, gns3-pyats, replaces Weisel's ASAv and PAN VM. Those
 dockers can only be accessed from ubu-2 after using ssh tunneling.
 The file ubuntu-wireguard-readme.txt contains the full instructions.
-	Although all the commands and scripts are provided, this
+
+Although all the commands and scripts are provided, this
 lab takes a minimum of 3 hours to complete. This lab should
 only be attempted if the user is planning on running a
 remote GNS3 VM setup using wireguard. This lab uses bash
